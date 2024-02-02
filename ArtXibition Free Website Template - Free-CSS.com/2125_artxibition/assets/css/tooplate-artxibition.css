@@ -180,10 +180,10 @@ body {
 
 .main-white-button a {
   display: inline-block;
-  font-size: 14px;
-  padding: 12px 18px;
-  background-color: #fff;
-  color: #2a2a2a;
+  font-size: 18px;
+  padding: 14px 17px;
+  background-color: #ec5300;
+  color: #ffffff;
   text-align: center;
   font-weight: 500;
   text-transform: capitalize;
@@ -191,7 +191,7 @@ body {
 }
 
 .main-white-button a:hover {
-  opacity: 0.9;
+  opacity: .5;
 }
 
 .main-dark-button a {
@@ -499,7 +499,7 @@ header
     opacity: 1;
   }
   .header-area {
-    background-color: #f7f7f7;
+    background-color: #ffffff;
     padding: 0px 15px;
     height: 80px;
     box-shadow: none;
@@ -603,20 +603,20 @@ banner
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  padding: 270px 0px 210px 0px;
+  padding: 600px 0px 210px 0px;
   position: relative;
 }
 
 .main-banner h6 {
   font-size: 14px;
-  color: #fff;
-  font-weight: 300;
+  color: #fbff00;
+  font-weight: 400;
 }
 
 .main-banner h2 {
   font-size: 50px;
   font-weight: 800;
-  color: #fff;
+  color: #000000;
   margin-top: 20px;
   margin-bottom: 30px;
 }
