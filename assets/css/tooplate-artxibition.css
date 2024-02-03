@@ -120,7 +120,8 @@ global styles
 */
 html,
 body {
-  background: #ffffff;
+
+  background:#ffffff;
   font-family: 'Poppins', sans-serif;
 }
 
