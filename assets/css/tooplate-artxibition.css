@@ -82,7 +82,7 @@ header, nav, section, article, aside, footer, hgroup {
 html, body {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
-  background-color: #fff;
+  background-color: #ffffff;
   font-size: 16px;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -120,8 +120,7 @@ global styles
 */
 html,
 body {
-
-  background: linear-gradient(rgb(219, 71, 71), rgb(255, 157, 0));
+  background: #ffffff;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -273,7 +272,7 @@ header
 }
 
 .header-area .main-nav {
-  min-height: 10px;
+  min-height: 0px;
   background: transparent;
 }
 
